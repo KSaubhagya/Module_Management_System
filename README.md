@@ -59,3 +59,20 @@ php artisan migrate --seed
 
 -Serve project
 php artisan serve
+
+---
+## Project Structure
+```plaintext
+Module_Management_System/
+│
+├── app/                   # Application code 
+├── bootstrap/             
+├── config/                # Configuration files 
+├── database/              # Migrations, seeders
+├── public/          
+├── resources/            
+├── routes/                
+├── storage/               # Logs, compiled views, cached files 
+├── workflows/            
+├── README.md             
+```
