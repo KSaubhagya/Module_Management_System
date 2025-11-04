@@ -25,7 +25,7 @@ The platform is built to streamline academic workflows such as course creation, 
 📝 Module Management
 
 -Modules belong to a course. Each module includes:
-  id, code, name, semester, description, credit, status (draft, publish)
+  id, code, name, semester, description, credit, status (draft, publish).
 -Academic Head can add, update, and delete modules.
 -Admin has full control over modules.
 -Teachers & Students can only view modules (without the description part).
