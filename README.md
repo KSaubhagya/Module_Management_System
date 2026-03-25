@@ -5,7 +5,7 @@ The platform is built to streamline academic workflows such as course creation, 
 
 
 🚀 Features
-🔑 Role & Permission Management
+🔑 Roles & Permission Management
 
 -Admin – Full authority over the system (add, update, delete, view all modules).
 -Academic Head – Responsible for course & module creation, management, and controlled publishing.
