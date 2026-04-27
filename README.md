@@ -3,7 +3,7 @@
 This project is a Laravel-based Web Application designed to manage academic courses, modules, and user access based on roles (RBAC). The system enforces role-based permissions for Admins, Academic Heads, Teachers, and Students while ensuring strict governance over course/module updates (with publishing and draft rules).
 The platform is built to streamline academic workflows such as course creation, module management, syllabus updates, and controlled publishing, ensuring both flexibility and accountability 
  
-
+ 
 🚀 Features
 🔑 Roles & Permission Management
 
