@@ -16,7 +16,7 @@ The platform is built to streamline academic workflows such as course creation, 
 📚 Course Management
 
 -Academic Head can create courses with attributes:
-  id, name, seo_url, faculty, category, status (draft, publish)
+  id, name, seo_url, faculty, category, status (draft, publish).
 -Update/Delete Rules:
 -Draft mode – can freely update/delete.
 -Published mode – can update/delete only within 6 hours of publishing.
